@@ -1,0 +1,58 @@
+body{
+    margin:0;
+    font-family:Arial, sans-serif;
+    background:#071333;
+    color:white;
+}
+
+.container{
+    text-align:center;
+    margin-top:80px;
+}
+
+h1{
+    font-size:50px;
+}
+
+p{
+    font-size:20px;
+}
+
+.card{
+    background:#1e293b;
+    width:450px;
+    margin:auto;
+    padding:30px;
+    border-radius:20px;
+}
+
+input{
+    width:90%;
+    padding:15px;
+    border:none;
+    border-radius:10px;
+    font-size:18px;
+    outline:none;
+}
+
+button{
+    margin-top:20px;
+    padding:15px 30px;
+    border:none;
+    background:#6c63ff;
+    color:white;
+    border-radius:10px;
+    cursor:pointer;
+    font-size:18px;
+}
+
+.answer-box{
+    margin-top:30px;
+    background:#1e293b;
+    width:500px;
+    margin-left:auto;
+    margin-right:auto;
+    padding:20px;
+    border-radius:20px;
+    min-height:60px;
+}
